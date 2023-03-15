@@ -1,0 +1,3 @@
+[submodule "vendor/tweetdeck-scraper"]
+	path = vendor/tweetdeck-scraper
+	url = git@github.com:claysauruswrecks/tweetdeck-scraper.git
